@@ -1,6 +1,6 @@
 # My GitHub Projects
 
-Welcome to my GitHub profile! This repository serves as a central hub for all my projects. Below is an organized list of my current projects with brief descriptions.
+Here's a quic overview to some stuff I have built recently
 
 ---
 
