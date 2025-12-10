@@ -1,6 +1,6 @@
 # My GitHub Projects
 
-Here's a quic overview to some stuff I have built recently
+Here's a quick overview to some stuff I have built recently
 
 ---
 
